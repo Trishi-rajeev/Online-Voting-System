@@ -1,6 +1,3 @@
-Excellent ✅ Here's a **professional and well-structured GitHub README.md** for your **Online Voting System** project — short, clear, and developer-friendly 👇
-
----
 
 # 🗳️ Online Voting System
 
@@ -67,7 +64,3 @@ Online-Voting-System/
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-
----
-
-Would you like me to add a **project description banner** (with emojis and badges like "Made with PHP", "License: MIT", etc.) to make it look more professional on GitHub?
